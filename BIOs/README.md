@@ -1,1 +1,1 @@
-Everyone needs to add their bio to this file so that you can QUICKLY pick who will be on your team.
+Everyone should create a bio file like in SE I so that you can QUICKLY select who will be on your team.
