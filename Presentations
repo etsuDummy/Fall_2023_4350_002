@@ -26,7 +26,7 @@ Software Architectures and Tools
 11.	Service-Oriented Architecture - 
 12.	Infrastructure as a Service	- Dylan Cowell
 13.	Platform as a Service	- 
-14.	Docker  - Dylan Lynch
+14.	Docker  - Dylan Lynch, Charles Kinser
 15.	Ansible - Matthew Justis
 16.	Jenkins	- 
 17.	Splunk (for DevOps) - 
@@ -40,7 +40,7 @@ Development Paradigms and Testing
 23.	Dependency Injection - 
 
 AI in SE
-24. AI for code completion - 
+24. AI for code completion - Charles Kinser
 25. AI for code creation (where the AI writes all the code) - Caleb Rains
 26. AI for code analysis - Richard Cashion
 
