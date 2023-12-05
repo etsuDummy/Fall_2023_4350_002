@@ -9,7 +9,7 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 Lifecycle Models and Process
 1.	Kanban (Software Development)	- Jacob Klucher https://youtu.be/Di8PJNwvx0w Done, Richard Cashion https://www.youtube.com/watch?v=HEE-dXWcACk Done
-2.	Crystal (Software Development)	- Kyle Wittman - https://youtu.be/I2mx2YzWwLY
+2.	Crystal (Software Development)	- Kyle Wittman - https://youtu.be/I2mx2YzWwLY DONE
 3.	Team Software Process and Personal Software Process - 
 4.a.	Build Automation - Thomas Foreman https://youtu.be/psGJuTxaLIQ Done
 4.b. 	CI/CD Pipeline - 
@@ -26,26 +26,26 @@ Software Architectures and Tools
 11.	Service-Oriented Architecture - 
 12.	Infrastructure as a Service	- Dylan Cowell - https://youtu.be/JeZl5ASZnJM Done
 13.	Platform as a Service	- 
-14.	Docker  - Dylan Lynch - https://youtu.be/N0NwD3EYnNI?si=jQxDJUvMN8jkPT3D Done, Charles Kinser https://youtu.be/VC1ZgRmyAKw
+14.	Docker  - Dylan Lynch - https://youtu.be/N0NwD3EYnNI?si=jQxDJUvMN8jkPT3D Done, Charles Kinser https://youtu.be/VC1ZgRmyAKw DONE
 15.	Ansible - Matthew Justis - https://youtu.be/GzTMAiA3_Os Done
 16.	Jenkins	- 
 17.	Splunk (for DevOps) - Kyle Wittman - https://youtu.be/rIiQEHnwK2g DONE
-18.	Selenium - Jacob Klucher https://youtu.be/er0K_Io_1w8, Caleb Rains: https://etsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a365a225-683e-4d51-bb89-b0c60092c4e0 (Done)
+18.	Selenium - Jacob Klucher https://youtu.be/er0K_Io_1w8 DONE, Caleb Rains: https://etsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a365a225-683e-4d51-bb89-b0c60092c4e0 (Done)
 19.	AppDynamics - 
 
 Development Paradigms and Testing
 20.	Test-Driven Development - Issac Camacho - https://youtu.be/jHQmaFS2i_w (Done)
-21.	Behavior Driven Development - DJ Jones - https://youtu.be/018F3eoASjg?si=fMC4dLG-d8DdCjOY
+21.	Behavior Driven Development - DJ Jones - https://youtu.be/018F3eoASjg?si=fMC4dLG-d8DdCjOY DONE
 22.	Feature Driven Development - Dylan Cowell - https://youtu.be/1Y8Q4Wa1_IA (Done)
 23.	Dependency Injection - 
 
 AI in SE
 24. AI for code completion - Charles Kinser (https://youtu.be/lHLRj1SfTmY Done), DJ Jones - https://youtu.be/4rgbGK2s--U Done
 25. AI for code creation (where the AI writes all the code) - Caleb Rains: https://etsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f8e80b2-5c4a-4a13-9c41-b09e003f8264 DONE
-26. AI for code analysis - Richard Cashion https://youtu.be/PbU6D5BOZts Done, Matthew Justis (2nd presentation) https://youtu.be/l2-rJKYY5TA
+26. AI for code analysis - Richard Cashion https://youtu.be/PbU6D5BOZts Done, Matthew Justis (2nd presentation) https://youtu.be/l2-rJKYY5TA DONE
 
 Other
 Tutorial on how to launch an EC2 instance in AWS - Chris Seals - https://youtu.be/B22d7D6SPDU?si=THdVBNXZ3zywmzX1 (Done)
 AWS Elastic Beanstalk - Chris Seals - https://youtu.be/XcryjASJi5g?si=Zmu7vXrdVZuQADHW (Done)
-IoT - Thomas Foreman - https://youtu.be/LYi2LAyhFvg
-Microservices - Dylan Lynch - https://youtu.be/gZSeHtgjxMk
+IoT - Thomas Foreman - https://youtu.be/LYi2LAyhFvg DONE
+Microservices - Dylan Lynch - https://youtu.be/gZSeHtgjxMk DONE
